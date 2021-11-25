@@ -1,0 +1,6 @@
+s=int(input())
+r=int(input())
+t=int(input())
+l=t-r 
+h=r-s 
+print(l)
